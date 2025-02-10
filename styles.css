@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #CE4257;
+    padding: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#question {
+    font-family: "Brush Script MT";
+    color: white;
+    font-size: 500%;
+    padding: 0px;
+    margin: 0px;
+}
+
+#gif {
+    width: 20%;
+    padding: 10px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 20%;
+}
+
+#yes {
+    width: 100%;
+    margin: 10px;
+    background-color: #3BC14A;
+    border: 2px solid black;
+}
+
+#no {
+    width: 100%;
+    margin: 10px;
+    background-color: #EC0B43;
+    border: 2px solid black;
+}
