@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #CE4257;
+    background-color: #F8C8DC;
     padding: 20px;
 }
 
@@ -36,7 +36,7 @@ button:hover {
 }
 
 #gif {
-    width: 20%;
+    width: 40%;
     padding: 10px;
 }
 
