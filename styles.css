@@ -60,3 +60,11 @@ button:hover {
     background-color: #EC0B43;
     border: 2px solid black;
 }
+
+#yes-body {
+    font-family: cursive;
+    color: white;
+    font-size: 200%;
+    padding: 0px;
+    margin: 0px;
+}
